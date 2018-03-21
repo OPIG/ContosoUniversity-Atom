@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>1416021b-d7f6-4d91-b614-31f40ed3147f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\20180307030414_InitialCreate.cs" />
+    <Compile Remove="Data\20180307030414_InitialCreate.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180307062812_Create.cs" />
+    <Compile Remove="Data\Migrations\20180307062812_Create.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180307070301_Initial.cs" />
+    <Compile Remove="Data\Migrations\20180307070301_Initial.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180307070504_Initial.cs" />
+    <Compile Remove="Data\Migrations\20180307070504_Initial.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180307070533_addFormat.cs" />
+    <Compile Remove="Data\Migrations\20180307070533_addFormat.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180308145053_addModel.cs" />
+    <Compile Remove="Data\Migrations\20180308145053_addModel.Designer.cs" />
+    <Compile Remove="Data\Migrations\20180308155239_initial.cs" />
+    <Compile Remove="Data\Migrations\20180308155239_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+      <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+</Project>

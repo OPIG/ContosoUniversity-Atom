@@ -1,0 +1,11 @@
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\bin\Any CPU\Release\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\bin\Any CPU\Release\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\bin\Any CPU\Release\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\bin\Any CPU\Release\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\bin\Any CPU\Release\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\obj\Any CPU\Release\netcoreapp2.0\ContosoUniversity.pdb

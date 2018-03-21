@@ -1,0 +1,18 @@
+C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=ContosoUniversity
+--content-root=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Home\About.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Home\Contact.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Home\Index.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Issue\Report.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Shared\Error.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Shared\_Layout.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Students\Create.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Students\Delete.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Students\Details.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Students\Edit.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\Students\Index.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\_ViewImports.cshtml
+--file=C:\Users\v-yuguip\source\repos\ContosoUniversity\ContosoUniversity\Views\_ViewStart.cshtml
